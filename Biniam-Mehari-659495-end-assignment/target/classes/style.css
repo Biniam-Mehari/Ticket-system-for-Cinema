@@ -1,0 +1,22 @@
+.root {
+    -fx-background-color: #86bce7;
+}
+
+.label{
+  //-fx-text-fill:  #ffffff;
+    -fx-text-fill: #000000;
+}
+
+.menu-bar{
+    -fx-text-fill:  #ffffff;
+    -fx-background-color: #1e79a5;
+    -fx-background-radius: 5px;
+
+}
+
+
+
+
+
+
+
